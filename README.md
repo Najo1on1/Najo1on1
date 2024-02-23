@@ -1,28 +1,41 @@
 # Intro 📢
-# Hi, I'm Muwanguzi Jonathan from Uganda 👋
+# Najo: A Data Science Maestro 👋
 ## 🏷️Whose Najo1on1?
 
-I am a data scientist whose a sustainability enthusiast who has completed
+Hello there! My Government name is Muwanguzi Jonathan but I also go by Najo, a versatile Data Scientist with a rich background in both environmental sustainability and chemical engineering. Bridging the gap between meticulous research and cutting-edge technology, I've carved a unique niche in the data science realm. With a Master's in Sustainable Resource Management and a Bachelor's in Chemical Engineering, my journey has been anything but conventional. Let's dive into what makes me stand out in the bustling world of data science.
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+## Educational Journey
 
-Achievements: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
-## My Projects 📖
+- **Master of Science in Sustainable Resource Management Practice and Policy (2021-2022)**: Achieved a cGPA of 3.2/4, focusing on sustainable practices and policy development.
+- **Bachelor of Science in Chemical Engineering (2015-2019)**: Laid a strong foundation in engineering principles, paving the way for a seamless transition into data science.
 
-Exploratory Data Analysis and Visualization of India's Air Quality 2015 - 2020 ([View](https://jovian.com/najo1on1/exploring-indias-air-quality-2015-to-2020))
+## Professional Milestones
 
-Worked with Air Quality Index (AQI) Database from Indian government on Kaggle which contains 4 csv files each with 16 columns and 2000+ rows.
-Using the City_day.csv file with python tools like pandas, numpy, geopandas, matplotlib, seaborn, etc. I analyzed the data on the AQI and gaseous pollutants in India’s Cities.
-Using plots and charts I described and visualized the different relationship between AQI, pollutants, time and location
+- **Product Technician at Johnson and Johnson Vision Care, Limerick, Ireland (Since November 2022)**: Spearheading semi-autonomous production lines, enhancing process and equipment troubleshooting, and mastering autonomous technologies like robotic arms, pneumatic, and steam systems.
 
-✍️ I’m currently learning Data Science and Machine Learning
+## Technical Proficiencies and Certifications
 
-🧠 All of my projects are available at [Jovian Profile](https://jovian.com/najo1on1/notebooks)
+A testament to my commitment to continuous learning, I've amassed a plethora of certifications and skills, notably:
 
-💬 Ask me about MySQL, Python, Statistics, Web scrapping and Exploratory Data Analysis
+- **Certified in Project Management, cGMP, GDP, OHS, Data Analytics, and more.**
+- **Skilled in MySQL, T-SQL, VBA in Excel, and Python3**, showcasing my versatility across different programming environments.
+- **Professional Certificates** from industry giants like Google and Microsoft, covering Data Analytics, Project Management, and Azure Data Scientist Associate.
+- **Expertise in CAD and Digital Manufacturing**, along with foundational knowledge in cloud solutions architecture through AWS.
 
-📜 My Resume [Resume](https://docs.google.com/document/d/11CoceneaTJi7uB49l2lIYF9aQuuTiCDyipAdJYynQWM/edit)
+## Data Science Projects
 
+My GitHub portfolio ([Najo1on1](https://github.com/Najo1on1)) reflects my passion for exploring diverse data science challenges:
+
+- **Employment Data in the Data Industry**: An exploratory visualization project offering insights into salary trends and job categories in the data field.
+- **Generating Cartoon Faces with GANs**: A deep dive into Generative Adversarial Networks to create unique cartoon avatars.
+- **PUBG Finish Placement Prediction**: Leveraging machine learning to forecast player rankings in the game.
+- **Exploring India's Air Quality**: An in-depth analysis of air quality trends across multiple Indian cities.
+
+## Vision and Philosophy
+
+In the dynamic world of data science, I believe in the power of data to not only solve complex problems but also to drive sustainable practices. My diverse background, spanning environmental management to chemical engineering, empowers me to approach data science with a holistic perspective. I'm dedicated to leveraging my skills to make a tangible impact, whether it's through optimizing production processes, predicting trends, or uncovering insights that lead to actionable strategies.
+
+## Let's Connect!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@Najo1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Najo1o1" height="30" width="40" /></a>
