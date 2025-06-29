@@ -1,44 +1,68 @@
-# Intro 📢
-# Najo: A Data Science Maestro 👋
-## 🏷️Whose Najo1on1?
+# Najo: Data Science Maestro 👋
 
-Hello there! My Government name is Muwanguzi Jonathan but I also go by Najo, a versatile Data Scientist with a rich background in both environmental sustainability and chemical engineering. Bridging the gap between meticulous research and cutting-edge technology, I've carved a unique niche in the data science realm. With a Master's in Sustainable Resource Management and a Bachelor's in Chemical Engineering, my journey has been anything but conventional. Let's dive into what makes me stand out in the bustling world of data science.
+Hello! I’m **Jonathan Muwanguzi** (aka Najo), a chemical engineer turned AI/ML specialist with a passion for sustainable solutions. I combine hands-on production expertise with deep learning chops to deliver scalable, data-driven impact.
 
-## Educational Journey
+---
 
-- **Master of Science in Sustainable Resource Management Practice and Policy (2021-2022)**: Achieved a cGPA of 3.2/4, focusing on sustainable practices and policy development.
-- **Bachelor of Science in Chemical Engineering (2015-2019)**: Laid a strong foundation in engineering principles, paving the way for a seamless transition into data science.
+## 🌟 My Vision
+> *“Harness data to build smarter, greener technologies that drive measurable change.”*
 
-## Professional Milestones
+---
 
-- **Product Technician at Johnson and Johnson Vision Care, Limerick, Ireland (Since November 2022)**: Spearheading semi-autonomous production lines, enhancing process and equipment troubleshooting, and mastering autonomous technologies like robotic arms, pneumatic, and steam systems.
+## 🏆 Key Achievements
+- **80% faster** defect-response time with an AWS serverless inspection pipeline  
+- **3× score boost** in Ms. Pac-Man using advanced DQN variants  
+- **MAE < 1.5** in predicting PUBG player placements across 65 000 matches  
+- **FID < 25** cartoon avatars generated via TensorFlow DCGAN
 
-## Technical Proficiencies and Certifications
+---
 
-A testament to my commitment to continuous learning, I've amassed a plethora of certifications and skills, notably:
+## 📂 Featured Repositories
 
-- **Certified in Project Management, cGMP, GDP, OHS, Data Analytics, and more.**
-- **Skilled in MySQL, T-SQL, VBA in Excel, and Python3**, showcasing my versatility across different programming environments.
-- **Professional Certificates** from industry giants like Google and Microsoft, covering Data Analytics, Project Management, and Azure Data Scientist Associate.
-- **Expertise in CAD and Digital Manufacturing**, along with foundational knowledge in cloud solutions architecture through AWS.
+### 1. Serverless-AI-Pipeline-for-High-Throughput-Quality-Inspection-on-AWS  
+📦 Edge→Cloud serverless system using AWS Greengrass, Lambda, S3, DynamoDB, SageMaker  
+⚙️ Deployed real-time defect detection at **30 FPS**, cut incident response by **80%**
 
-## Data Science Projects
+### 2. deep-pacman-agents  
+🤖 PyTorch DQN suite (Vanilla / Double / Dueling) + UCB exploration  
+⏱️ Achieved **2× faster** training & **3× higher** cumulative reward (40 M pts)
 
-My GitHub portfolio ([Najo1on1](https://github.com/Najo1on1)) reflects my passion for exploring diverse data science challenges:
+### 3. Ranking-position-of-players-in-a-PUBG-competition  
+🔍 Full ML pipeline: data cleaning, feature engineering, Random Forest & XGBoost ensembles  
+📈 Predict final rank with **MAE < 1.5** on **65 000** records
 
-- **Employment Data in the Data Industry**: An exploratory visualization project offering insights into salary trends and job categories in the data field.
-- **Generating Cartoon Faces with GANs**: A deep dive into Generative Adversarial Networks to create unique cartoon avatars.
-- **PUBG Finish Placement Prediction**: Leveraging machine learning to forecast player rankings in the game.
-- **Exploring India's Air Quality**: An in-depth analysis of air quality trends across multiple Indian cities.
+### 4. Generating-Cartoon-Faces  
+🎨 TensorFlow DCGAN on **10 000+** avatars, optimized for realistic cartoon outputs  
+📊 FID score **< 25** for high-fidelity image generation
 
-## Vision and Philosophy
+🔗 [View all repos](https://github.com/Najo1on1?tab=repositories)
 
-In the dynamic world of data science, I believe in the power of data to not only solve complex problems but also to drive sustainable practices. My diverse background, spanning environmental management to chemical engineering, empowers me to approach data science with a holistic perspective. I'm dedicated to leveraging my skills to make a tangible impact, whether it's through optimizing production processes, predicting trends, or uncovering insights that lead to actionable strategies.
+---
 
-## Let's Connect!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@Najo1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Najo1o1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muwanguzi-jonathan-a0b766124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muwanguzi-jonathan-a0b766124" height="30" width="40" /></a>
-<a href="https://medium.com/@m1029jona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m1029jona" height="30" width="40" /></a>
-</p>
+## 💼 Professional Journey
+- **Product Technician** @ Johnson & Johnson Vision Care (Limerick, IE)  
+  • Led SPC-driven analytics on semi-autonomous lines → 7% fewer anomalies  
+  • Built interactive Excel dashboards for real-time KPI monitoring
+
+- **Data Analyst** @ Directorate of Industrial Training (Kampala, UG)  
+  • Migrated certification workflows online → 10 000+ candidates served during COVID  
+  • Boosted data accuracy by 35% through validation protocols
+
+- **Sales Associate** @ BillSave (Limerick, IE)  
+  • Applied A/B testing to refine pitches → 5% uplift in conversion  
+
+---
+
+## 🎓 Education & Certifications
+**MSc AI & ML** (2024 – Present), University of Limerick  
+**MSc Sustainable Resource Management** (2021 – 2022), University of Limerick  
+**BSc Chemical Engineering** (2015 – 2019), Kyambogo University  
+
+Certified: Azure Data Scientist Associate · AWS Solutions Architect · Google Data Analytics · Project Management Pro
+
+---
+
+## 📬 Let’s Collaborate!
+<a href="https://twitter.com/@Najo1o1">Twitter</a> ·  
+<a href="https://linkedin.com/in/muwanguzi-jonathan-a0b766124">LinkedIn</a> ·  
+<a href="https://medium.com/@m1029jona">Medium</a>
